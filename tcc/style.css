@@ -1,0 +1,49 @@
+
+*{  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+
+header{
+    background-color: rgb(167, 210, 167);
+    padding: 20px 0 ;
+    position: fixed; 
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;    
+    top: 0; 
+    width: 100%; 
+    padding: 20px 0;
+    z-index: 1000;
+}
+
+body{
+    padding-top: 80px; 
+    scroll-behavior: smooth; 
+
+
+}
+
+header h1{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+main h1{
+
+    padding-top: 90px;
+    align-items: center;
+    text-align: center;
+
+}
+
+.formulario {
+
+    align-items: center;
+    text-align: center;
+    
+
+
+}
